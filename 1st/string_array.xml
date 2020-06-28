@@ -1,0 +1,614 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringArray xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Format>DT</Format>
+  <Endianness>BigEndian</Endianness>
+  <Strings>
+    <string>：Confirm</string>
+    <string>：Confirm</string>
+    <string>：Cancel</string>
+    <string>：Back</string>
+    <string>：終了</string>
+    <string>：Select</string>
+    <string>：Switch</string>
+    <string>：Select/Change</string>
+    <string>：Select/Switch</string>
+    <string>：Previous/Next Page</string>
+    <string>：Yes</string>
+    <string>：No</string>
+    <string>：OK</string>
+    <string>：Watch Video</string>
+    <string>：Preview</string>
+    <string>：Select/Edit</string>
+    <string>：Select/Remove</string>
+    <string>：Delete</string>
+    <string>：Add</string>
+    <string>：Remove</string>
+    <string>：Loop</string>
+    <string>：Change Category</string>
+    <string>：楽曲/モジュール切り替え</string>
+    <string>：楽曲/MP3切り替え</string>
+    <string>ARCADEモードです。</string>
+    <string>Play rhythm game 
+or watch music videos</string>
+    <string>Play rhythm game 
+or watch music videos
+(Copy "Hatsune Miku: 
+Project DIVA" system data to
+unlock)</string>
+    <string>Change appearance
+of your character</string>
+    <string>Change appearance
+of your character
+(Copy "Hatsune Miku: 
+Project DIVA" system data to
+unlock)</string>
+    <string>Manage your own
+playlists</string>
+    <string>Manage your own
+playlists
+(Copy "Hatsune Miku: 
+Project DIVA" system data to
+unlock)</string>
+    <string>Copy your 
+system data and edit data for
+"Hatsune Miku: Project DIVA"</string>
+    <string>Check how to 
+operate each function
+(Japanese Only)</string>
+    <string>Change BGM and SE
+Volume</string>
+    <string>Manage your 
+system data for 
+Dreamy Theater</string>
+    <string>Quit the game 
+and return to title screen</string>
+    <string>モードを選んでください。</string>
+    <string>『初音ミク -Project DIVA-』の
+システムデータをコピーし、アン
+ロックした楽曲/モジュール情報
+を反映できます。</string>
+    <string>『初音ミク -Project DIVA-』で
+作成したエディットデータと楽曲
+データをコピーできます。</string>
+    <string>『初音ミク -Project DIVA-』で
+作成したエディットデータと楽曲
+データをコピーできます。
+（『初音ミク -Project DIVA-』の
+システムデータをコピーすることで
+アンロックされます。）</string>
+    <string>ドリーミーシアターについて確認
+ができます。</string>
+    <string>フリープレイの操作方法が確認で
+きます。</string>
+    <string>PV鑑賞モードの操作方法などが確
+認できます。</string>
+    <string>プレイリスト作成の操作方法が確
+認できます。</string>
+    <string>『初音ミク -Project DIVA-』の
+データコピーの操作方法が確認で
+きます。</string>
+    <string>タイミング調整について確認がで
+きます。</string>
+    <string>ドリーミーシアターのスタッフク
+レジットを閲覧できます。</string>
+    <string>遊び方説明です。</string>
+    <string>操作設定を変更します。</string>
+    <string>ゲーム設定を変更します。</string>
+    <string>システムデータの管理をおこない
+ます。</string>
+    <string>クレジットを見ます。</string>
+    <string>Change BGM volume</string>
+    <string>Change SE volume</string>
+    <string>ボイスの音量を設定します。</string>
+    <string>Toggle autosave</string>
+    <string>Change timing, when melody icon
+overlaps it's target</string>
+    <string>コントローラー振動の設定を変更
+します。</string>
+    <string>上下の操作設定を変更します。</string>
+    <string>左右の操作設定を変更します。</string>
+    <string>機体Select操作の感度を設定します。</string>
+    <string>ゲームの難易度を設定します。
+（ARCADE／TRAINING）</string>
+    <string>設定内容を初期化します。</string>
+    <string>設定を完了して戻ります。</string>
+    <string>現在の状態をセーブします。</string>
+    <string>システムデータをロードします。</string>
+    <string>システムデータを保存するストレ
+ージ機器を変更します。</string>
+    <string>セーブデータの削除をおこないま
+す。</string>
+    <string>リプレイデータを保存します。</string>
+    <string>リプレイデータを上書き保存します。</string>
+    <string>カスタマイズデータを保存します。</string>
+    <string>カスタマイズデータを上書き保存します。</string>
+    <string>観賞したいリプレイデータを選んでください。</string>
+    <string>カスタマイズデータを選んでください。</string>
+    <string>Yes</string>
+    <string>No</string>
+    <string>ON</string>
+    <string>OFF</string>
+    <string>OK</string>
+    <string>－－－－－</string>
+    <string>NOW SAVING...</string>
+    <string>NOW LOADING...</string>
+    <string>Saving...
+Please, do not turn off your system</string>
+    <string>保存中...</string>
+    <string>保存しています。PlayStation®3の電源を切らないでください。</string>
+    <string>Main Menu</string>
+    <string>MAIN MENU</string>
+    <string>ARCADE</string>
+    <string>Free Play</string>
+    <string>Customization</string>
+    <string>Playlists</string>
+    <string>DIVA Data Copy</string>
+    <string>Software Manual</string>
+    <string>Options</string>
+    <string>Save</string>
+    <string>Return to Title Screen</string>
+    <string>Copy System Data</string>
+    <string>Copy Edit Data</string>
+    <string>Playable Songs</string>
+    <string>Available modules</string>
+    <string>System Data</string>
+    <string>System Data 1</string>
+    <string>System Data 2</string>
+    <string>System Data 3</string>
+    <string>Hatsune Miku: Project DIVA</string>
+    <string>[Progress]</string>
+    <string>[Update]</string>
+    <string>Number of songs</string>
+    <string>Number of modules</string>
+    <string>Playable Songs:　　　　　%2d/%2d</string>
+    <string>Available modules:　　%2d/%2d</string>
+    <string>System Data not found</string>
+    <string>Edit Data not found</string>
+    <string>No Songs found</string>
+    <string>No Edits found</string>
+    <string>Song List</string>
+    <string>MP3 Files List</string>
+    <string>Pause</string>
+    <string>Return to game</string>
+    <string>メニューに戻る</string>
+    <string>メインメニューに戻る</string>
+    <string>リトライ</string>
+    <string>Playlist</string>
+    <string>Create Playlist</string>
+    <string>Edit Playlist</string>
+    <string>Delete Playlist</string>
+    <string>Enter Playlist Name</string>
+    <string>Playlist %d</string>
+    <string>Playlist　　     　　　　　　　%2d/%2d</string>
+    <string>Songs   　　　　     　　　　　%2d/%2d</string>
+    <string>Song List  　　　　　　　　　　　%2d/%2d</string>
+    <string>Edit Data List    　　　　　%2d/%2d</string>
+    <string>There is no Edit Data</string>
+    <string>ソフトウェアマニュアル</string>
+    <string>ドリーミーシアターについて</string>
+    <string>フリープレイについて</string>
+    <string>PV鑑賞について</string>
+    <string>プレイリスト作成について</string>
+    <string>DIVAデータコピーについて</string>
+    <string>タイミング調整について</string>
+    <string>スタッフクレジット</string>
+    <string>HOW TO PLAY</string>
+    <string>お問い合わせ</string>
+    <string>セガ カスタマーサポートナビダイヤル 0570-000-353
+ゲームの内容や攻略法に関するお問い合わせにはお答えしておりません。
+
+受付時間 10:00～17:00 月～金（祝日及び弊社指定休日を除く）
+※0570より省略せずにおかけください。　※通話料がかかります。
+
+WEBからのお問い合わせはセガ公式サイト（http://sega.jp/）を
+ご覧ください。</string>
+    <string>Dolby and the double-D symbol
+are trademarks of Dolby Laboratories.</string>
+    <string>DTS® and DTS Digital Surround® are
+registered trademarks of DTS Inc.</string>
+    <string>HOW TO PLAY</string>
+    <string>CONTROLS</string>
+    <string>SETTINGS</string>
+    <string>SYSTEM DATA</string>
+    <string>CREDITS</string>
+    <string>難易度</string>
+    <string>1</string>
+    <string>2</string>
+    <string>3</string>
+    <string>4</string>
+    <string>5</string>
+    <string>明るさ補正</string>
+    <string>ＯＦＦ</string>
+    <string>ＯＮ</string>
+    <string>グラフィックアレンジ</string>
+    <string>ＯＦＦ</string>
+    <string>ＯＮ</string>
+    <string>設定を初期化</string>
+    <string>設定完了</string>
+    <string>Autosave</string>
+    <string>OFF</string>
+    <string>ON</string>
+    <string>振動</string>
+    <string>OFF</string>
+    <string>ON</string>
+    <string>Display Lag</string>
+    <string>SE Volume</string>
+    <string>0</string>
+    <string>1</string>
+    <string>2</string>
+    <string>3</string>
+    <string>4</string>
+    <string>5</string>
+    <string>6</string>
+    <string>7</string>
+    <string>8</string>
+    <string>9</string>
+    <string>10</string>
+    <string>11</string>
+    <string>12</string>
+    <string>13</string>
+    <string>14</string>
+    <string>15</string>
+    <string>16</string>
+    <string>17</string>
+    <string>18</string>
+    <string>19</string>
+    <string>20</string>
+    <string>BGM Volume</string>
+    <string>0</string>
+    <string>1</string>
+    <string>2</string>
+    <string>3</string>
+    <string>4</string>
+    <string>5</string>
+    <string>6</string>
+    <string>7</string>
+    <string>8</string>
+    <string>9</string>
+    <string>10</string>
+    <string>11</string>
+    <string>12</string>
+    <string>13</string>
+    <string>14</string>
+    <string>15</string>
+    <string>16</string>
+    <string>17</string>
+    <string>18</string>
+    <string>19</string>
+    <string>20</string>
+    <string>VOICE音量</string>
+    <string>0</string>
+    <string>1</string>
+    <string>2</string>
+    <string>3</string>
+    <string>4</string>
+    <string>5</string>
+    <string>6</string>
+    <string>7</string>
+    <string>8</string>
+    <string>9</string>
+    <string>10</string>
+    <string>11</string>
+    <string>12</string>
+    <string>13</string>
+    <string>14</string>
+    <string>15</string>
+    <string>16</string>
+    <string>17</string>
+    <string>18</string>
+    <string>19</string>
+    <string>20</string>
+    <string>TYPE A</string>
+    <string>TYPE B</string>
+    <string>TYPE C</string>
+    <string>TYPE D</string>
+    <string />
+    <string />
+    <string />
+    <string />
+    <string />
+    <string />
+    <string />
+    <string />
+    <string />
+    <string />
+    <string />
+    <string />
+    <string>（クリック）</string>
+    <string>L1ボタン</string>
+    <string>L2ボタン</string>
+    <string>L3ボタン</string>
+    <string>R1ボタン</string>
+    <string>R2ボタン</string>
+    <string>R3ボタン</string>
+    <string>SELECTボタン</string>
+    <string>STARTボタン</string>
+    <string>NO USE</string>
+    <string>ポーズメニュー</string>
+    <string>振動</string>
+    <string>ON</string>
+    <string>OFF</string>
+    <string>セーブ</string>
+    <string>ロード</string>
+    <string>ストレージ機器変更</string>
+    <string>セーブデータ削除</string>
+    <string>新規作成</string>
+    <string>新しく作成する</string>
+    <string>%d時間%d分%d秒</string>
+    <string>セーブスロット番号%02d
+『楽曲名』
+%s
+『エディット名』
+%s</string>
+    <string>ダミーデータ</string>
+    <string>『楽曲名』</string>
+    <string>『エディット名』</string>
+    <string>このゲームには、画面の点滅やフラッシュ効果などを
+利用した演出が登場します。
+ごくまれに、強い光の刺激や点滅、テレビ画面などを
+見ていて、一時的に筋肉のけいれん・意識の喪失等の
+症状を起こす人がいます。こうした経験のある方は、
+このソフトをプレイする前に必ず医師と相談してくだ
+さい。また、使用中にこのような症状が起きたときは
+すぐに使用をやめ、医師の診察を受けてください。</string>
+    <string>新規保存</string>
+    <string>ゲームデータを使用しますか？</string>
+    <string>ゲームデータを使用しますか？
+※HDDへのアクセス中には本体の電源OFFや
+ディスクの抜き差しをおこなわないでください。</string>
+    <string>ゲームデータを使用しますか？
+※ゲームデータ使用中にはHDDアクセスランプが点滅しますので、
+その間は電源を切らないでください。</string>
+    <string>ゲームデータを作成しますか？ゲームデータを作成するには9999MB以上の空き容量が必要となります。</string>
+    <string>HDDへのアクセス中には本体の電源OFFやディスクの抜き差しをおこなわないでください。</string>
+    <string>ゲームデータ使用中にはHDDアクセスランプが点滅しますので、
+その間は電源を切らないでください。</string>
+    <string>ゲームデータをチェック中です。</string>
+    <string>ゲームデータをチェック中です。
+チェックには時間がかかりますので本体の電源OFFや
+ディスクの抜き差しをおこなわないでください。</string>
+    <string>ゲームデータをチェック中です。
+チェックには数分かかることがありますので本体の電源OFFや
+ディスクの抜き差しをおこなわないでください。</string>
+    <string>ゲームデータをチェック中です。
+本体の電源OFFやディスクの抜き差しをおこなわないでください。</string>
+    <string>ゲームデータのチェックを中断しました。</string>
+    <string>ゲームデータのチェックを中断します。よろしいですか？</string>
+    <string>ゲームデータを作成中です。</string>
+    <string>ゲームデータを作成中です。
+作成には時間がかかりますので本体の電源OFFや
+ディスクの抜き差しをおこなわないでください。</string>
+    <string>ゲームデータを作成中です。
+作成には数分かかることがありますので本体の電源OFFや
+ディスクの抜き差しをおこなわないでください。</string>
+    <string>ゲームデータを作成中です。
+本体の電源OFFやディスクの抜き差しをおこなわないでください。</string>
+    <string>ゲームデータを作成しました。</string>
+    <string>ゲームデータの作成に失敗しました。</string>
+    <string>ゲームデータの作成を中断しました。</string>
+    <string>ゲームデータの作成を中断します。よろしいですか？</string>
+    <string>ゲームデータが壊れています。
+ゲームを終了してゲームデータの削除をおこなってください。</string>
+    <string>ゲームデータが壊れています。
+ゲームデータを使用するには、ゲームを終了してゲームデータの削除をおこなってください。</string>
+    <string>完了しました。</string>
+    <string>チェックが完了しました。</string>
+    <string>ゲームデータ作成が完了しました。</string>
+    <string>HDDの空き容量が不足しています。
+ゲームデータを作成するにはあと９９９９MB以上必要です。</string>
+    <string>HDDの空き容量が不足しています。
+保存するにはあと%dKB以上必要です。</string>
+    <string>HDDの使用可能な容量制限を越えています。HDDを整理しますか？</string>
+    <string>本ゲームはオートセーブ機能に対応しています。
+オートセーブ中にはHDDアクセスランプが点滅しますので、
+その間は電源を切らないでください。</string>
+    <string>本ゲームはオートセーブ機能に対応しています。
+本体の電源OFFやディスクの抜き差しをおこなわないでください。</string>
+    <string>オートセーブがONになりました。</string>
+    <string>オートセーブがONになりました。
+セーブ中は本体の電源OFFやディスクの抜き差しをおこなわないでください。</string>
+    <string>セーブを中止しますか？</string>
+    <string>ロードを中止しますか？</string>
+    <string>空き容量が不足しています。容量を確保するためHDDを整理しますか？</string>
+    <string>空き容量が不足しています。セーブデータを作成するにはあと%sKB以上必要です。容量を確保するためHDDを整理しますか？</string>
+    <string>他人のセーブデータは使用できません。</string>
+    <string>ゲームを保存するにはゲーマー プロフィールを選んでサインインする必要があります。サインインするにはXbox ガイド ボタンを押してください。そのまま続ける場合はボタンを押してください。</string>
+    <string>ゲームを保存するにはゲーマー プロフィールを選んでサインインする必要があります。サインインしますか？</string>
+    <string>このゲームをプレイするためにはサインインが必要です。サインインしますか？</string>
+    <string>サインインする</string>
+    <string>サインインしない</string>
+    <string>セーブに使用するストレージ機器を選んでください。</string>
+    <string>サインインしていないためゲームを保存できません。</string>
+    <string>サインインしていないためロードできません。</string>
+    <string>サインイン状態が変更されました。</string>
+    <string>保存しています。本体の電源を切らないでください。</string>
+    <string>ロードしています。本体の電源を切らないでください。</string>
+    <string>システムデータを作成しています。本体の電源を切らないでください。</string>
+    <string>システムデータをロードしています。本体の電源を切らないでください。</string>
+    <string>システムデータをロードしますか？保存していないデータはなくなります。</string>
+    <string>システムデータを使用せずにゲームを開始します。よろしいですか？</string>
+    <string>システムデータのロードをおこないません。よろしいですか？</string>
+    <string>ストレージ機器が選択されていません。よろしいですか？</string>
+    <string>システムデータを上書きします。よろしいですか？</string>
+    <string>システムデータをロードします。（現在の状況は失われます）よろしいですか？</string>
+    <string>カスタマイズデータをロードします。（現在の状況は失われます）よろしいですか？</string>
+    <string>システムデータがありません。作成してよろしいですか？</string>
+    <string>システムデータがありません。</string>
+    <string>データが見つかりません。</string>
+    <string>リプレイデータがありません。</string>
+    <string>カスタマイズデータがありません。</string>
+    <string>上書きします。よろしいですか？</string>
+    <string>このまま続けるとゲーム内容は保存されません。よろしいですか？</string>
+    <string>このまま始めるとゲーム内容の保存と読み込みはおこなえません。オンライン機能は使えません。　よろしいですか？</string>
+    <string>使用中のストレージ機器が見つかりません。ストレージ機器を選択し直してください。</string>
+    <string>サインイン状態が変更されました。以降のゲームではセーブデータの操作はおこなえません。オンライン機能は使えません。</string>
+    <string>サインイン状態が変更されました。タイトル画面に戻ります。</string>
+    <string>データがありません。</string>
+    <string>空き容量が不足しています。</string>
+    <string>オートセーブがOFFになりました。ゲームをセーブするにはOPTIONSからセーブを選択してください。</string>
+    <string>オートセーブがOFFになりました。以降、自動ではセーブされません。ご注意ください。</string>
+    <string>ロードに失敗しました。</string>
+    <string>セーブに失敗しました。</string>
+    <string>セーブに失敗しました。システムデータが破損しています。</string>
+    <string>セーブに失敗しました。システムデータが破損している可能性があります。</string>
+    <string>セーブに失敗しました。リプレイデータが破損しています。</string>
+    <string>セーブに失敗しました。リプレイデータが破損している可能性があります。</string>
+    <string>セーブに失敗しました。カスタマイズデータが破損しています。</string>
+    <string>セーブに失敗しました。カスタマイズデータが破損している可能性があります。</string>
+    <string>ロードに失敗しました。システムデータが破損しています。</string>
+    <string>ロードに失敗しました。システムデータが破損している可能性があります。</string>
+    <string>ロードに失敗しました。リプレイデータが破損しています。</string>
+    <string>ロードに失敗しました。リプレイデータが破損している可能性があります。</string>
+    <string>ロードに失敗しました。カスタマイズデータが破損しています。</string>
+    <string>ロードに失敗しました。カスタマイズデータが破損している可能性があります。</string>
+    <string>ロードに失敗しました。破損しているなど、リプレイデータが正しくない可能性があります。</string>
+    <string>リプレイデータのロードに失敗しました。Xbox LIVEとの接続が切れたなどの不具合が発生した可能性があります。</string>
+    <string>タイトル画面に戻ります。（現在の状況は失われます）
+よろしいですか？</string>
+    <string>この続きは製品版でお楽しみください！</string>
+    <string>体験版を終了します。よろしいですか？</string>
+    <string>ストレージ機器が接続されていません。</string>
+    <string>If you return to title screen, 	
+all unsaved data will be lost
+
+Do you want to return?</string>
+    <string>No MP3 data</string>
+    <string>エディットデータがありません。</string>
+    <string>鑑賞できる楽曲がありません。</string>
+    <string>『%s』
+を削除します。
+
+よろしいですか？</string>
+    <string>削除しました。</string>
+    <string>このモードをプレイするにはXbox LIVEに接続する必要があります。</string>
+    <string>ランキングを見るにはXbox LIVEに接続する必要があります。</string>
+    <string>ランキングを見るにはPlayStation®Networkにサインアップする必要があります。</string>
+    <string>このゲーマー プロフィールはXbox LIVEでプレイすることができません。</string>
+    <string>このアカウントはパレンタルロックが設定されているため、オンラインサービスを利用できません。</string>
+    <string>ゲームを終了してメインメニューに戻ります。
+よろしいですか？</string>
+    <string>ゲームを中断して最初からスコアアタックを始めます。
+よろしいですか？</string>
+    <string>ゲームを終了してメインメニューに戻ります。
+よろしいですか？</string>
+    <string>ゲームを終了してメインメニューに戻ります。（進行状況は失われます）
+よろしいですか？</string>
+    <string>設定内容を初期化しますか？</string>
+    <string>EX OPTIONをコンプリートしました！</string>
+    <string>メダルを10個(仮)獲得しました。</string>
+    <string>メダルをコンプリートしました！</string>
+    <string>ゲームを終了してメインメニューに戻ります。
+よろしいですか？</string>
+    <string>ゲームを終了してステージセレクトに戻ります。
+よろしいですか？</string>
+    <string>ゲームを終了してメインメニューに戻ります。
+よろしいですか？</string>
+    <string>ゲームを終了してＶＳ．メニューに戻ります。
+よろしいですか？</string>
+    <string>ゲームを検索中…</string>
+    <string>ゲームに参加できませんでした。</string>
+    <string>パートナーが見つかりませんでした。</string>
+    <string>Xbox LIVEとの接続が切れました。</string>
+    <string>システム リンクの接続が切れました。</string>
+    <string>パートナーとの接続が切れました。</string>
+    <string>パートナーとの接続が切れました。Xbox LIVEとの接続が切れたなどの不具合が発生した可能性があります。</string>
+    <string>セッションが終了されました。Xbox LIVEとの接続が切れたなどの不具合が発生した可能性があります。</string>
+    <string>セッションに参加できませんでした。</string>
+    <string>エラーが発生しました。Xbox LIVEとの接続が切れたなどの不具合が発生した可能性があります。</string>
+    <string>Xbox LIVEに接続して情報を取得します。
+よろしいですか？</string>
+    <string>協力プレイを申し込まれました。
+プレイしますか？</string>
+    <string>ランキングを取得中．．．</string>
+    <string>ランキングを取得できませんでした。</string>
+    <string>Xbox LIVEとの接続が正しくないため、ランキングを取得できませんでした。</string>
+    <string>PlayStation®Networkとの接続が正しくないため、ランキングを取得できませんでした。</string>
+    <string>PlayStation®Networkからサインアウトしました。</string>
+    <string>でランキングを取得します。</string>
+    <string>でランキングを取得します。
+ランキングの反映には時間がかかる場合があります。</string>
+    <string>リプレイデータを再生しますか？</string>
+    <string>通信中．．．</string>
+    <string>リプレイデータを取得中．．．</string>
+    <string>取得中．．．</string>
+    <string>このリプレイデータは再生できません。</string>
+    <string>アップロード中です。</string>
+    <string>アップロードに成功しました。</string>
+    <string>アップロードに失敗しました。</string>
+    <string>セーブしていないデータは保存されません。
+よろしいですか？</string>
+    <string>%sを終了します。
+よろしいですか？</string>
+    <string>変更した内容をキャンセルして戻ります。
+よろしいですか？</string>
+    <string>セーブしていないデータは保存されません。
+よろしいですか？</string>
+    <string>リプレイデータを上書きしますか？</string>
+    <string>カスタマイズデータを上書きしますか？</string>
+    <string>通信中．</string>
+    <string>通信中．．</string>
+    <string>通信中．．．</string>
+    <string>接続中．</string>
+    <string>接続中．．</string>
+    <string>接続中．．．</string>
+    <string>To use this function, 
+you need to connect your PSP®
+
+Do you want to continue?</string>
+    <string>PSP®との接続に失敗しました。
+PSP®の電源が入っていないか、USBケーブルが
+正しく接続されていない可能性があります。
+
+再度接続確認をしますか？</string>
+    <string>Please wait...
+Do not turn off the power 
+or disconnect the USB cable</string>
+    <string>Please wait...</string>
+    <string>PSP®と通信中です。通信中は電源を切ったり、USBケーブルを抜いたりしないで下さい。</string>
+    <string>PSP® is connected</string>
+    <string>PSP® is not connected</string>
+    <string>通信に成功しました。</string>
+    <string>PSP®との通信に失敗しました。
+PSP®の電源が入っていないか、USBケーブルが正しく接続されていない可能性があります。</string>
+    <string>『初音ミク -Project DIVA-』のシステムデータの取得に失敗しました。
+PSP®の電源が入っていないか、USBケーブルが正しく接続されていない可能性があります。</string>
+    <string>『初音ミク -Project DIVA-』のシステムデータが見つかりませんでした。</string>
+    <string>『初音ミク -Project DIVA-』のシステムデータが不正です。
+お手持ちのPSP®でプレイしたことのあるシステムデータが必要です。</string>
+    <string>『初音ミク -Project DIVA-』のエディットデータの取得に失敗しました。
+PSP®の電源が入っていないか、USBケーブルが正しく接続されていない可能性があります。</string>
+    <string>『初音ミク -Project DIVA-』のエディットデータの取得に失敗しました。
+データが破損している可能性があります。</string>
+    <string>『初音ミク -Project DIVA-』のエディットデータが見つかりませんでした。</string>
+    <string>データの取得に失敗しました。</string>
+    <string>データの取得に失敗しました。
+データのサイズが大きすぎます。</string>
+    <string>HDDの空き容量が足りません。</string>
+    <string>HDDの使用可能な容量制限を越えています。</string>
+    <string>このセーブデータをコピーすると
+進行状況が更新されます。
+
+コピーしてもよろしいですか？</string>
+    <string>コピーが完了しました。</string>
+    <string>コピーに失敗しました。</string>
+    <string>『楽曲名』
+%s
+『エディット名』
+%s
+
+をコピーします。よろしいですか？</string>
+    <string>同じスロット番号に、別のエディットデータが
+セーブされています。コピーを行うと
+以前のエディットデータは上書きされます。
+
+コピーしてもよろしいですか？</string>
+    <string>コピーが完了しました。</string>
+    <string>コピーに失敗しました。</string>
+    <string>この楽曲は再生できません。</string>
+    <string>試聴に失敗しました。</string>
+    <string>HDDの空き容量が不足しています。
+試聴するにはあと%dKB以上必要です。</string>
+    <string>試聴に失敗しました。
+HDDの使用可能な容量制限を越えています。</string>
+  </Strings>
+</StringArray>
