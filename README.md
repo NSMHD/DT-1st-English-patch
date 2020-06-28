@@ -1,24 +1,22 @@
-# DT-1st-English-patch 
-## ( Project Diva Dreamy Theater 1st English patch )
-
-English patch for Project Diva Dreamy Theater 1st<br>
-This patch is made for Dreamy Theater version 01.01, if you are using another version it may not work for you.<br>
-
-<h1>What has been done:</h1><br>
-most if not all of the main menu and the submenus<br>
-song and module names<br>
-
-<h1>contributors/credits:</h1><br>
-
-Skyth for Database Converter and mmm<br>
-Snakemi/Murakemi for making some sprites and for helping me during the creation of this project<br>
-Stikam for testing on a real hardware and fixing a few things<br>
-<br>
-if i am missing someone please tell me.<br>
-
-<h1>Estimated progress:</h1><br>
-
-**around 75%**<br>
-(need to fully translate the "normal text", some sprites and the ingame manual as well as maybe fixing some typos here and there)<br>
-
-if you want to share/redistribute this "mod" go ahead, but please link back to here
+# Read this before asking any questions
+# What is this?
+This is the translate of Project DIVA Dreamy Theater for pepople with no knowledge of Japanese. Please note, that this is not finished translation 
+because of technical difficulties or because translator is just lazy
+# Required files
+- Game patch file (patch.yml / Artemis patch)
+- Save for DT
+- DT Version 1.0
+# Install Guide
+1. Install the game from .pkg file and drop the .rap file to this path: (RPCS3 Location/PS3 HDD root)\dev_hdd0\home\(User ID. Usually it's "00000001")\exdata
+2. (RPCS3) Drop patch.yml file to RPCS3 folder
+2. (PS3) Drop patch file to Artemis's patches folder
+3. Download files of the translation
+4. Replace the existing files with files from translation in this path: (RPCS3 Location/PS3 HDD root)\dev_hdd0\game\NPJB00047\USRDIR\rom
+5. (RPCS3) Run the game
+5. (PS3) Run Artemis, enable the patch, run the game from Artemis, press the PS button and hold Start button
+# Credits
+- Skyth (MikuMikuModel, DatabaseConverter)
+- nastysdsi (Real PS3 Guide, Patch)
+- Samyuu (Patch)
+- Brolijah (Patch)
+- JayW-39 (PDA-T/PDA-T2)
