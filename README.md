@@ -1,6 +1,6 @@
 # Read this before asking any questions
 # What is this?
-This is the translate of Project DIVA Dreamy Theater for pepople with no knowledge of Japanese. Please note, that this is not finished translation 
+This is the translate of Project DIVA Dreamy Theater for people with no knowledge of Japanese. Please note, that this is not finished translation 
 because of technical difficulties or because translator is just lazy
 # Install Guide
 1. Download files of the translation
